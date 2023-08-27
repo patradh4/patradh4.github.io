@@ -1,9 +1,9 @@
 {
   "Ads": [
       {
-      "more_app"                    : "1",
-      "select_main_ads"             : "ADMOB",
-      "select_backup_ads"           : "APPLOVIN-D",
+      "more_app"                    : "0",
+      "select_main_ads"             : "ADMOBx",
+      "select_backup_ads"           : "APPLOVIN-Dx",
 
       "main_ads_banner"             : "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial"        : "ca-app-pub-3940256099942544/1033173712",
